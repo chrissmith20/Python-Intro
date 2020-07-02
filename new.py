@@ -1,5 +1,5 @@
-print ('Hello World')
-
-phrase = ('Test Script')
-
-print phrase 
+# print ('Hello World')
+#
+# phrase = ('Test Script')
+#
+# print phrase
